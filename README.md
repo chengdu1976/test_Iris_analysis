@@ -1,16 +1,17 @@
-# test_Iris_analysis
-using the decision tree to classification the iris
+# Tree model on Iris_analysis to demostrate overfitting 
+using the decision tree to classification the iris with different depth
 
+demostrate the error prediction/fitting on both training and testing dataset 
 
-In this exercise, we'll classify three different iris flower types using a decision tree classifier.
+plot error prediction for comparision. 
 
-Your tasks are the following:
+also calcualte accuracy score to demostrate the overfitting. 
 
-Identify the data types of X and y
-Get an overview of the dataset
-Plot a histogram of the data
-Split into training and test data
-Examine the shape of your training data
-Train a decision tree
-Make predictions with your model
-Calculate the accuracy
+--> conclusion,    the depth of tree is a critical hyper-parameter to avoid overfitting. 
+
+author: Jianbo tian
+email: jtian1@mtb.com
+version : 1 
+Date: 12/02/2025
+
+updates: N/A 
